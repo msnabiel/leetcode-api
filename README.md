@@ -34,7 +34,7 @@ Interested in contributing? Check out our guide: <a href="CONTRIBUTING.md" targe
 
 ### Rate Limiting 💡
 
-The API implements rate limiting to ensure service stability and prevent abuse.
+The API will be implemented with rate limiting to ensure service stability and prevent abuse.
 
 ### Development Note ‼️
 
